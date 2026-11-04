@@ -3,8 +3,8 @@
 API REST para gerenciar os pedidos de uma pequena loja: cadastrar, listar, consultar e atualizar o status de pedidos.
 Projeto prático da disciplina **Tópicos Avançados em Sistemas de Informação II**.
 
-- **Aluno(a):** Oto Passos
-- **RA:** 44627246
+- **Aluno(a):** Ewerton de Souza Pessoa
+- **RA:** 44779488
 
 ## Tecnologias
 
@@ -22,7 +22,7 @@ Os pedidos ficam **armazenados em memória** (não há banco de dados). Ao reini
 
 ```bash
 # 1. Clonar o repositório
-git clone https://github.com/otoprb/api-pedidos.git
+git clone https://github.com/ewertonsouzapessoa-prog/api-pedidos.git
 cd api-pedidos
 
 # 2. Instalar as dependências
